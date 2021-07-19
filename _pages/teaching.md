@@ -27,7 +27,8 @@ Along with my research activity, I am a teaching assistant for courses in statis
 
 - 2016: Directed the student organization GEPPM at École polytechnique, giving pro bono tutoring for high school students
 
-- 2015: Highschool tutor in Robert Doisneau at Corbeil-Essonnes for 6 months, tutoring and helping students with higher education orientation
+- 2015: Worked at Robert Doisneau (Corbeil-Essonnes) for 6 months, tutoring and helping students with higher education orientation
+
 <!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %} -->

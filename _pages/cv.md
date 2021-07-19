@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Short CV"
-permalink: /cv/
+title: "About me"
+permalink: /about/
 author_profile: true
 redirect_from:
   - /resume
@@ -10,10 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* 2019-2022: PhD. at École polytechnique and Inria
-* 2018-2019: MSc. at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en), [Master MVA](https://www.master-mva.com/) ("Mathématiques, Vision, Apprentissage")
+* 2019-2022: Ph.D at [Aramis Lab](https://www.aramislab.fr/), Inria and [CMAP](https://portail.polytechnique.edu/cmap/fr/), École polytechnique
+  Under the supervision of Stéphanie Allassonnière and Stanley Durrleman.
+* 2018-2019: MSc. at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en), [Master MVA](https://www.master-mva.com/)
 * 2015-2019: Engineering degree at [École polytechnique](polytechnique.edu/en) (Applied Mathematics and Computer Science)
-* 2013-2015: Scientific preparatory classes at Lycée Saint-Louis (MP track: Mathematics, Physics and Computer Science)
+* 2013-2015: Scientific preparatory classes at Lycée Saint-Louis (Mathematics, Physics and Computer Science)
 
 ## Work experience
 * Summer 2019: Statistics research intern ([Inria](inria.fr), [École polytechnique](polytechnique.edu), France)
