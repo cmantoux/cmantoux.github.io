@@ -11,7 +11,7 @@ author_profile: true
 
 - Chadebec, C., Mantoux, C., & Allassonnière, S. (2020). Geometry-Aware Hamiltonian Variational Auto-Encoder. arXiv:2010.11518. *(Preprint)* [[Paper](http://arxiv.org/abs/2010.11518)]
 
-- Mantoux, C., Allassonnière, S., & Durrleman, S. (2020). Sparse Low Rank Decomposition for Graph Data Sets. *(Preprint)* [[Paper]({{ "/files/sparse_low_rank_decomposition.pdf" | prepend: base_path }}), [Code](https://github.com/cmantoux/sparse-low-rank-decomposition)]
+- Mantoux, C., Durrleman, S., De Vico Fallani, F., Allassonnière, S. (2020). Sparse Low Rank Decomposition for Graph Data Sets. *(Preprint)* [[Paper]({{ "/files/sparse_low_rank_decomposition.pdf" | prepend: base_path }}), [Code](https://github.com/cmantoux/sparse-low-rank-decomposition)]
 
 - Mantoux, C (2019). Investigating Variational Bayesian Methods, CMAP, École polytechnique, France. *(Master's Thesis)* [[PDF]({{ "/files/mva_report.pdf" | prepend: base_path }})]
 
