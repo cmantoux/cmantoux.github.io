@@ -27,6 +27,13 @@ redirect_from:
 * Summer 2017: Web development intern ([Matters Studio](https://matters.tech/), France)
   * Worked on backend, frontend and continuous integration
 
+## Some research friends
+
+* [Eloïse Berthier](https://www.di.ens.fr/eloise.berthier/index.html)
+* [Guillaume Dalle](https://gdalle.github.io)
+* [Pierre Marion](https://pierremarion23.github.io)
+
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
