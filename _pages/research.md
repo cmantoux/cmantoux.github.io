@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-- Mantoux, C., Durrleman, S., & Allassonnière, S. (2021). Asymptotic Analysis of a Matrix Latent Decomposition Model (2021). [[Paper]({{ "/files/gsv_asymptotics.pdf" | prepend: base_path }})]
+- Mantoux, C., Durrleman, S., & Allassonnière, S. (2021). Asymptotic Analysis of a Matrix Latent Decomposition Model. *(Preprint)* [[Paper]({{ "/files/gsv_asymptotics.pdf" | prepend: base_path }})]
 
 - Mantoux, C., Couvy-Duchesne, B., Cacciamani, F., Epelbaum, S., Durrleman, S., & Allassonnière, S. (2021). Understanding the Variability in Graph Data Sets through Statistical Modeling on the Stiefel Manifold. Entropy, 23(4), 490. [[Paper](https://www.mdpi.com/1099-4300/23/4/490), [Code](https://github.com/cmantoux/graph-spectral-variability)]
 
