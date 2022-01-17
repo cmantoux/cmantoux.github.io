@@ -9,6 +9,12 @@ author_profile: true
 
 Along with my research activity, I am a teaching assistant for courses in statistics and applied mathematics at École polytechnique and ENS Paris-Saclay.
 
+## 2021-2022
+
+- Computational Statistics (ENS Paris-Saclay, MVA Master)
+
+- Introduction to Statistics (MAA204, École polytechnique, 2nd year Bachelor)
+
 ## 2020-2021
 
 - Computational Statistics (ENS Paris-Saclay, MVA Master)
