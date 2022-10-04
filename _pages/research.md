@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+- Mantoux, C. (2022). Statistical Modeling and Inference for Populations of Networks and Longitudinal Data. PhD Thesis, École polytechnique. [[PDF]({{ "/files/thesis_mantoux.pdf" | prepend: base_path }})]
+
 - Mantoux, C., Durrleman, S., & Allassonnière, S. (2022). Asymptotic Analysis of a Matrix Latent Decomposition Model. ESAIM: Probability and Statistics, 26, 208–242. [[Paper](https://doi.org/10.1051/ps/2022004)]
 
 - Mantoux, C., Couvy-Duchesne, B., Cacciamani, F., Epelbaum, S., Durrleman, S., & Allassonnière, S. (2021). Understanding the Variability in Graph Data Sets through Statistical Modeling on the Stiefel Manifold. Entropy, 23(4), 490. [[Paper](https://doi.org/10.3390/e23040490), [Code](https://github.com/cmantoux/graph-spectral-variability)]
