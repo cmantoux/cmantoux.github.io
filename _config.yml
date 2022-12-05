@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Clément Mantoux"
 title_separator          : "-"
 name                     : &name "Clément Mantoux"
-description              : &description "PhD student"
+description              : &description "Postdoctoral Researcher"
 url                      : https://cmantoux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cmantoux/cmantoux.github.io"
@@ -83,12 +83,12 @@ author:
   name             : "Clément Mantoux"
   avatar           : "profile.jpg"
   logo             : "logo.png"
-  bio              : "PhD student in Statistics and Machine Learning"
-  location         : "École polytechnique, France"
+  bio              : "Postdoctoral Researcher in Statistics and Optimization"
+  location         : "Inria Paris, France"
   employer         : # Inria
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : name.surname@polytechnique.edu
+  email            : name.surname@inria.fr
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

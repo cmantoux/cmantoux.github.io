@@ -9,23 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-* 2019-2022: Ph.D at [Aramis Lab](https://www.aramislab.fr/), Inria and [CMAP](https://portail.polytechnique.edu/cmap/fr/), École polytechnique. I am working under the supervision of Stéphanie Allassonnière and Stanley Durrleman.
-* 2018-2019: MSc. at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en), [Master MVA](https://www.master-mva.com/)
-* 2015-2019: Engineering degree at [École polytechnique](polytechnique.edu/en) (Applied Mathematics and Computer Science)
-* 2013-2015: Scientific preparatory classes at Lycée Saint-Louis (Mathematics, Physics and Computer Science)
-
 ## Work experience
+* 2022: Postdoc at [Sierra](https://www.di.ens.fr/sierra/), Inria
+* 2019-2022: Ph.D at [Aramis Lab](https://www.aramislab.fr/), Inria and [CMAP](https://portail.polytechnique.edu/cmap/fr/), École polytechnique
 * Summer 2019: Statistics research intern ([Inria](inria.fr), [École polytechnique](polytechnique.edu), France)
   * Theoretical study on the Variational Auto-Encoders algorithm
   * Investigation on new variants of the VAE algorithm
-
 * Summer 2018: Statistics research intern ([Michigan State University](msu.edu), USA)
   * Climatology project on past temperatures reconstruction based on proxy data
   * Bayesian modeling for predicting the future temperature based on IPCC projections
-
 * Summer 2017: Web development intern ([Matters Studio](https://matters.tech/), France)
   * Worked on backend, frontend and continuous integration
+
+## Education
+* 2019-2022: Ph.D at [Aramis Lab](https://www.aramislab.fr/), Inria and [CMAP](https://portail.polytechnique.edu/cmap/fr/), École polytechnique
+* 2018-2019: MSc. at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en), [Master MVA](https://www.master-mva.com/)
+* 2015-2019: Engineering degree at [École polytechnique](polytechnique.edu/en) (Applied Mathematics and Computer Science)
+* 2013-2015: Scientific preparatory classes at Lycée Saint-Louis (Mathematics, Physics and Computer Science)
 
 ## Some research friends
 
