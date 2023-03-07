@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Along with my research activity, I am a teaching assistant for courses in statistics and applied mathematics at École polytechnique and ENS Paris-Saclay.
+During my PhD thesis, I was also a teaching assistant for courses in statistics and applied mathematics at École polytechnique and ENS Paris-Saclay.
 
 ## 2021-2022
 
