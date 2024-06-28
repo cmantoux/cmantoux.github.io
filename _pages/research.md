@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+-  Louvet A., Mantoux C., Machon N. (2024). Assessing the extinction risk of the spontaneous flora in urban tree bases. PLOS Computational Biology 20(6): e1012191. [[Paper](https://doi.org/10.1371/journal.pcbi.1012191), [Code](https://github.com/cmantoux/boa-process)]
+
 - Mantoux, C. (2022). Statistical Modeling and Inference for Populations of Networks and Longitudinal Data. PhD Thesis, École polytechnique. [[PDF]({{ "/files/thesis_mantoux.pdf" | prepend: base_path }})]
 
 - Mantoux, C., Durrleman, S., & Allassonnière, S. (2022). Asymptotic Analysis of a Matrix Latent Decomposition Model. ESAIM: Probability and Statistics, 26, 208–242. [[Paper](https://doi.org/10.1051/ps/2022004)]
