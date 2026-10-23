@@ -83,12 +83,12 @@ author:
   name             : "Clément Mantoux"
   avatar           : "profile.jpg"
   logo             : "logo.png"
-  bio              : "Machine Learning R&D Engineer"
-  location         : "SNCF Campus Rimbaud, France"
+  bio              : "Data Science R&D Engineer"
+  location         : "EDF Lab Saclay, France"
   employer         : # Inria
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : name.surname@sncf.fr
+  email            : name.surname@edf.fr
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
